@@ -43,6 +43,6 @@ project/
 |---- clustering results.csv
 |----Extracted Features
 |----clustering labels
-|---original labels.csv
+|---labels.csv
 
 ```
